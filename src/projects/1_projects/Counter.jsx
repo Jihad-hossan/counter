@@ -24,7 +24,7 @@ const Counter = () => {
   }
 
   return (
-    <div className="container mt-5">
+    <div className="container my-5">
         <div className="row align-items-center justify-content-center">
             <h1 className="text-center">Hi, Here is a counter for you.</h1>
             <p className="text-center">You can count your clicks by clicking on the buttons below</p>
